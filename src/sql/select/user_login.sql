@@ -1,0 +1,1 @@
+SELECT id, senha from users where email = ?;

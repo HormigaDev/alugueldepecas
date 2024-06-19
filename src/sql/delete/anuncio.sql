@@ -1,0 +1,1 @@
+DELETE FROM anuncios WHERE id_ferramenta = ?;

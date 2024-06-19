@@ -1,0 +1,1 @@
+SELECT id FROM users WHERE cpf = ? or email = ?;

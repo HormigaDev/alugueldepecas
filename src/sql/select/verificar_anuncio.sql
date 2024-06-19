@@ -1,0 +1,1 @@
+SELECT id_ferramenta FROM anuncios WHERE id_usuario = ? AND id_ferramenta = ?;

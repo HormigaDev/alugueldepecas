@@ -1,0 +1,1 @@
+SELECT imagem FROM imagens WHERE id_ferramenta = ?;

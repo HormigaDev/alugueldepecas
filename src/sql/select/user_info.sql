@@ -1,0 +1,1 @@
+SELECT id, nome, email, telefone FROM users where id = ?;
